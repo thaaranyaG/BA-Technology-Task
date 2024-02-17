@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "469051194987",
+    "project_id": "ba-technology-77f76",
+    "storage_bucket": "ba-technology-77f76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469051194987:android:2bd238531ea635f350bb2e",
+        "android_client_info": {
+          "package_name": "com.example.ba_technology"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSP5NCEotiEtaHQNdGPixhI_PPhjg95rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
